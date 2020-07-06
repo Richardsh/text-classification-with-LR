@@ -1,3 +1,3 @@
 # text-classification-with-LR
 
-run the project with jupyter
+run the project by jupyter
